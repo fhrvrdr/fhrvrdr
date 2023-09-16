@@ -2,7 +2,7 @@
 <h3 align="center">A Backend developer from Turkey</h3>
 
 # About Me:
-🌱 I’m currently learning Symfony<br>💬 Ask me about Laravel, PHP, MySQL, Symfony, Doctrine
+🌱 I’m currently learning .NET<br>💬 Ask me about Laravel, PHP, MySQL, Symfony, Doctrine, Phalcon
 
 
 ## Socials:
